@@ -1,14 +1,9 @@
-#contactImage {
-    max-height: 340px;
-}
 body {
     background-color:#E4E8EB;
 }
-.carousel-item {
-
+#contactImage {
+    max-height: 340px;
 }
-
-/*
-#carouselContainer {
-    width: 80vh;
-*/
+.row {
+    margin: 15px;
+  }
